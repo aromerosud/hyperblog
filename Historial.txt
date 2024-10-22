@@ -2,14 +2,8 @@ Nuevo archivo de prueba
 
 Este es el contenido del nuevo archivo de prueba.
 
-<<<<<<< HEAD
 Registrada en Santa Anita - Lima - Perú.
 
 Fue creado por Arturo Romero
 
 Vamo a hablar de su religion.
-=======
-Registrada en Santa Anita - Lima - Peru.
-
-hablaremos de otra cosa
->>>>>>> cabecera
